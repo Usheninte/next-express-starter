@@ -1,8 +1,8 @@
 {
-  "name": "ninte-dev",
+  "name": "next-starter",
   "version": "1.0.0",
   "main": "server.js",
-  "description": "Usheninte's personal developer web application",
+  "description": "nextjs starter web application with express",
   "license": "MIT",
   "scripts": {
     "dev": "node server.js",
